@@ -1,1 +1,1 @@
-
+#myBtn{display:none;position:fixed;bottom:30px;right:45px;z-index:2;font-size:18px;border:0;outline:0;background-color:#00b3e3;color:#fff;cursor:pointer;padding:15px;border-radius:4px}#myBtn:hover{background-color:rgba(255,132,0,1)}@media screen and (max-width:740px){#myBtn{display:none!important}}
